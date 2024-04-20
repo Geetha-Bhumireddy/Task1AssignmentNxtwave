@@ -11,7 +11,7 @@ Welcome to the Pharma Website project! This project is aimed at providing a plat
 
 2. **Navigate to Project Directory:** Once cloned, navigate to the project directory:
    ```bash
-   cd pharma-website
+   cd geetha_s_application-v1-0.2
    ```
 
 3. **Install Dependencies:** Install project dependencies using npm or yarn:
