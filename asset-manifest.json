@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Geetha-Bhumireddy/Task1AssignmentNxtwave.git/static/css/main.3742b03c.css",
+    "main.js": "/Geetha-Bhumireddy/Task1AssignmentNxtwave.git/static/js/main.6a2b56dc.js",
+    "static/media/InterSemiBold.ttf": "/Geetha-Bhumireddy/Task1AssignmentNxtwave.git/static/media/InterSemiBold.6058d3da655fb35169c2.ttf",
+    "static/media/InterMedium.ttf": "/Geetha-Bhumireddy/Task1AssignmentNxtwave.git/static/media/InterMedium.3f7acfe50aad7ad68548.ttf",
+    "static/media/InterRegular.ttf": "/Geetha-Bhumireddy/Task1AssignmentNxtwave.git/static/media/InterRegular.9ca9ba81e9dcaa12b3a1.ttf",
+    "static/media/PoppinsRegular.ttf": "/Geetha-Bhumireddy/Task1AssignmentNxtwave.git/static/media/PoppinsRegular.35d26b781dc5fda684cc.ttf",
+    "static/media/PoppinsMedium.ttf": "/Geetha-Bhumireddy/Task1AssignmentNxtwave.git/static/media/PoppinsMedium.673ed42382ab264e0bf5.ttf",
+    "static/media/img_frame_29.png": "/Geetha-Bhumireddy/Task1AssignmentNxtwave.git/static/media/img_frame_29.660aa57cc9a84e4a0d74.png",
+    "static/media/PoppinsSemiBold.ttf": "/Geetha-Bhumireddy/Task1AssignmentNxtwave.git/static/media/PoppinsSemiBold.ac8d04b620e54be9b0f0.ttf",
+    "static/media/NunitoMedium.ttf": "/Geetha-Bhumireddy/Task1AssignmentNxtwave.git/static/media/NunitoMedium.06740446a9f13288701b.ttf",
+    "static/media/NunitoRegular.ttf": "/Geetha-Bhumireddy/Task1AssignmentNxtwave.git/static/media/NunitoRegular.9d7a6e03c6e3ed49c7ac.ttf",
+    "static/media/NunitoSemiBold.ttf": "/Geetha-Bhumireddy/Task1AssignmentNxtwave.git/static/media/NunitoSemiBold.ae592fe018d712c287a2.ttf",
+    "static/media/NunitoBold.ttf": "/Geetha-Bhumireddy/Task1AssignmentNxtwave.git/static/media/NunitoBold.275dd55e10ba966bcb9b.ttf",
+    "index.html": "/Geetha-Bhumireddy/Task1AssignmentNxtwave.git/index.html",
+    "main.3742b03c.css.map": "/Geetha-Bhumireddy/Task1AssignmentNxtwave.git/static/css/main.3742b03c.css.map",
+    "main.6a2b56dc.js.map": "/Geetha-Bhumireddy/Task1AssignmentNxtwave.git/static/js/main.6a2b56dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3742b03c.css",
+    "static/js/main.6a2b56dc.js"
+  ]
+}
